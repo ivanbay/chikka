@@ -1,0 +1,15 @@
+{
+    "name": "ivanbay/chikka",
+    "description": "Package that will able to send and receive SMS using Chikka API.",
+    "tags": ["laravel", "chikka", "ivanbay"],
+    "type": "Communication Package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Paul Bay",
+            "email": "bayivanpaul@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
